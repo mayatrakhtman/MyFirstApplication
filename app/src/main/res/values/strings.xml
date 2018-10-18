@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="random_number">Here is a random number between 0 and %1d</string>
+    <string name="_0">0</string>
+    <string name="toast">toast</string>
+    <string name="random">random</string>
+    <string name="count">count</string>
+</resources>
